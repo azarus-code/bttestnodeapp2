@@ -18,6 +18,9 @@ metadata:
     backstage.io/kubernetes-id: "bttestnodeapp2"
     backstage.io/kubernetes-cluster: "bsidp-cluster"
     backstage.io/kubernetes-namespace: 'default'
+    backstage.io/azure-devops-project: lattice
+    backstage.io/azure-devops-repository: lattice
+    backstage.io/azure-devops-branch: feature/azureDevops
     # backstage.io/techdocs-ref: dir:.
     #backstage.io/techdocs-ref: url:http://<your-service-endpoint>
 spec:
